@@ -1,0 +1,7 @@
+name: euphabuild
+version: 1.0
+author: Dinnerwolph
+main: net.euphalys.euphabuild.EuphaBuild
+depend: [Multiverse-Core]
+commands:
+  plots:
